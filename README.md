@@ -63,7 +63,7 @@ Follow these steps to get your agent up and running.
 
 ```bash
 git clone <your-repository-url>
-cd agent_clean
+cd cyber
 ```
 
 ### 2\. Install Dependencies
